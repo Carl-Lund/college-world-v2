@@ -10,7 +10,7 @@ College World V2 is a new project that aims to recreate the [existing College Wo
 
 To begin working on College World V2, you need to have the following installed on your computer:
 * Node.js and npm ([install](https://nodejs.org/en/download/))
-* MongoDB ([install](https://www.mongodb.com/try/download/community)).
+* MongoDB ([install](https://www.mongodb.com/try/download/community))
 
 ## Getting Started
 
