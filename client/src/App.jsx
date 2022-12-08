@@ -15,6 +15,7 @@ function App() {
   return (
     <div className='App'>
       <header className='App-header'>
+        <p>Welcome to College World V2!</p>
         <p>{apiResponse}</p>
       </header>
     </div>
