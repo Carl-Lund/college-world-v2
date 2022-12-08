@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Express Generator](https://expressjs.com/en/starter/generator.html).
 
+## Overview
+
+College World V2 is a new project that aims to recreate the [existing College World application](https://github.com/mjocean/college_world_react) using React, Express, and MongoDB.
+
+## Prerequisites
+
+To begin working on College World V2, you need to have the following installed on your computer:
+* Node.js and npm ([install](https://nodejs.org/en/download/))
+* MongoDB ([install](https://www.mongodb.com/try/download/community)).
+
+## Getting Started
+
+
+
 ## Available Scripts
 
 ### React (front end)
